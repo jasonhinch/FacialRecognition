@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bad85ca-0f15-4d48-af40-da578b157c02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FacialRecognition2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nicolas_Cage.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facedetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nicolas-cage-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/npwriter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the-15-best-nicolas-cage-movies_bvu1.1280.webp" afterDir="false" />
+    <list default="true" id="3bad85ca-0f15-4d48-af40-da578b157c02" name="Changes" comment="Fist commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facedetect.py" beforeDir="false" afterPath="$PROJECT_DIR$/facedetect.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +48,7 @@
       <recent name="C:\Users\JasonHinch\PycharmProjects\FacialRecognition2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.recog">
+  <component name="RunManager" selected="Python.facedetect">
     <configuration name="facedetect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FacialRecognition2" />
       <option name="ENV_FILES" value="" />
@@ -130,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.recog" />
         <item itemvalue="Python.facedetect" />
+        <item itemvalue="Python.recog" />
         <item itemvalue="Python.npwriter" />
       </list>
     </recent_temporary>
@@ -152,6 +139,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716997640184</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fist commit.">
+      <option name="closed" value="true" />
+      <created>1717001666502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717001666502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fist commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fist commit." />
   </component>
 </project>
